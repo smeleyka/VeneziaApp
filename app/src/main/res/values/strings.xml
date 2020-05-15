@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VeneziaApp</string>
+    <string name="title_catalog">Catalog</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_contacts">Contacts</string>
+</resources>
